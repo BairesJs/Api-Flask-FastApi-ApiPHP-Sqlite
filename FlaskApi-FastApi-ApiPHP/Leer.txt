@@ -1,0 +1,2 @@
+Para arrancar Fast Api como servidor abrir una consola dentro de la carpeta y escribir: 
+uvicorn main:app --reload
